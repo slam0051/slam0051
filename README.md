@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- degree, cadetship, club involvement
+- what i want to get into 
+- my current experience
+- what im looking for 
+- html => language and tools 
+- stats (most used languages)
+- connections => linkenln, email ???
 -->
